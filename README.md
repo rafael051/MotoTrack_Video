@@ -128,7 +128,7 @@ Para validar o pipeline no Colab, incluímos um vídeo gerado artificialmente:
 
 ## 👨‍💻 Desenvolvedores
 - Rafael Rodrigues de Almeida — RM557837
-- [Adicione aqui os demais integrantes do grupo]
+- Lucas Kenji Miyahira - RM555368
 
 ---
 
